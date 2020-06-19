@@ -1,64 +1,50 @@
 {
     "data": [
         {
-            "name": "Tomo Riba Institute of Health & Medical Sciences",
-            "address": "Naharlagun",
-            "phone_number": "0360 235 0331"
+            "name": "Midnapore Medical College and Hospital",
+            "address": "Vidyasagar Rd, Midnapore, West Bengal 721101",
+            "phone_number": " 03222 222 400"
         },
         {
-            "name": "Royal Medical and Laboratory",
-            "address": "Model Village, Papum Pare, NH52A, Itanagar Road, Naharlagun, Naharlagun, Arunachal Pradesh 791110",
-            "phone_number": "098626 70017"
+            "name": "Diamond Harbour Government Medical College and south 24 pgs district hospital",
+            "address": "Diamond Harbour Rd, Harindanga, Diamond Harbour, West Bengal 743331",
+            "phone_number": " 03174 255 633"
         },
         {
-            "name": "Dr Lal PathLabs",
-            "address": "opp. BSNL Office, Bank Tiniali, Cona County, Itanagar, Arunachal Pradesh 791111",
-            "phone_number": "097749 50511"
+            "name": "Uluberia Sub Divisional Hospital",
+            "address": "Station Road, Bazarpara, Uluberia, Howrah, West Bengal 711315",
+            "phone_number": " 091638 25620"
         },
         {
-            "name": "Itanagar Drugs and Diagnostic Centre",
-            "address": "Upper Chimi, G Sector, Papum Pare, NH52A, Itanagar Main Road, Itanagar, Itanagar, Arunachal Pradesh 791113",
-            "phone_number": "098391 52441"
+            "name": "Bankura Sammilani Medical College And Hospital",
+            "address": "Bankura Sammilani Medical College Rd, kenduadihi, Bankura, West Bengal 722102",
+            "phone_number": "03242 244 700"
         },
         {
-            "name": "Dr Lal PathLabs",
-            "address": "S S Mission Road, East Siang, Pasighat, Arunachal Pradesh-791102, Pasighat, Arunachal Pradesh 791102",
-            "phone_number": "096120 01015"
+            "name": "Laboratory Services Peerless Hospitex Hospital & Research Centre",
+            "address": "360, Pancha Sayar Rd, Sahid Smirity Colony, Pancha Sayar, Kolkata, West Bengal 700094",
+            "phone_number": " 033 4011 1222"
         },
         {
-            "name": "Dr Lal PathLabs",
-            "address": "Mayu-1, Roing, Arunachal Pradesh 792110, Roing, Arunachal Pradesh 792110",
-            "phone_number": "094360 48355"
+            "name": "Woodlands Multispeciality Hospital Limited",
+            "address": "8/5, Alipore Rd, Alipore, Kolkata, West Bengal 700027",
+            "phone_number": " 033 2456 7075"
         },
         {
-            "name": "Dr Lal PathLabs",
-            "address": "Near State General Hospital,Naharlagun:791110, Near State General Hospital, Arunachal Pradesh 791110",
-            "phone_number": "094362 29900"
+            "name": "The Calcutta Medical Research Institute",
+            "address": "7, 2, Diamond Harbour Rd, New Alipore, Kolkata, West Bengal 700027",
+            "phone_number": " 033 3090 3090"
         },
         {
-            "name": "Brothers Medicos & Diagnostics",
-            "address": "Lumer Dai Road,Near Tomoriba State Hospital, Naharlagun, Arunachal Pradesh 791110",
-            "phone_number": "0360 235 1750"
+            "name": "Command Hospital",
+            "address": "17/1E, Alipore Rd, Alipore Police Line, Alipore, Kolkata, West Bengal 700027",
+            "phone_number": " 033 2479 1567"
         },
         {
-            "name": "Doctors Diagnostics Centre",
-            "address": "S. S. Mission Road (Jerang Pharmacy, Jarkong, Leprosy colony, road, Pasighat, Arunachal Pradesh 791102",
-            "phone_number": "-"
-        },
-        {
-            "name": "Intermediate Reference Laboratory Directorate of Health Sciences",
-            "address": "National Highway 52A, Old Assembly Complex, Naharlagun, Arunachal Pradesh 791110",
-            "phone_number": "-"
-        },
-        {
-            "name": "Apollo Diagnostics",
-            "address": "D.C Bungalow Road, Girls High School Chariali, Ward No.6, North Lakhimpur, Assam 787001",
-            "phone_number": "069013 89266"
-        },
-        {
-            "name": "Apollo Diagnostics",
-            "address": "South Amolapatty,A T Road,, Opposite Govt Girls Higher Secondary School, Dibrugarh, Assam 786001",
-            "phone_number": "088204 44418"
+            "name": "Chittaranjan National Cancer Institute",
+            "address": "37, Shyama Prasad Mukherjee Rd, Bakul Bagan, Bhowanipore, Kolkata, West Bengal 700026",
+            "phone_number": " 033 2476 5101"
         }
+      
     ]
 }

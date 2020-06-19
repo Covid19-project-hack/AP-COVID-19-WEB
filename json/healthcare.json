@@ -1,129 +1,108 @@
 {
     "data": [
         {
-            "name": "Ramakrishna Mission Hospital",
-            "address": "P.O. R.K. Mission, Itanagar, Arunachal Pradesh 791113",
-            "phone_number": "0360 221 2263"
-        },
-        {
-            "name": "Niba Hospital",
-            "address": "Niba hospital, Naharlagun Pappunalla, Itanagar, Arunachal Pradesh 791110",
-            "phone_number": "0360 224 4574"
-        },
-        {
-            "name": "Heema Hospital",
-            "address": "NH415, Cona County, Itanagar, Arunachal Pradesh 791111",
-            "phone_number": "087942 36321"
-        },
-        {
-            "name": "District Hospital, Bomdila",
-            "address": "Cona, Bomdila, Arunachal Pradesh 790001",
-            "phone_number": "03782 222 005"
-        },
-        {
-            "name": "Tomo Riba Institute Of Health And Medical Sciences",
-            "address": "National Highway 52A, Old Assembly Complex, Naharlagun, Arunachal Pradesh 791110",
-            "phone_number": "0360 235 0331"
-        },
-        {
-            "name": "Samaritan Hormin Hospital",
-            "address": "A Sector, Papum Pare, NH-52A, Itanagar Rd, Naharlagun, Arunachal Pradesh 791110",
-            "phone_number": "097065 03471"
-        },
-        {
-            "name": "Heema Hospital",
-            "address": "Cona County, Itanagar, Arunachal Pradesh 791113",
+            "name": "Nimta Health Center",
+            "address": "Aam Bagan Rd, Fatullahpur, Nimta, North Dumdum, West Bengal 700049",
             "phone_number": "-"
         },
         {
-            "name": "Hospital {SWASTI}, Ramakrishna Mission, Narottam Nagar",
-            "address": "Arunachal Pradesh 792129",
-            "phone_number": "03786 255 237"
-        },
-        {
-            "name": "District Hospital",
-            "address": "Cona, Daporijo, Arunachal Pradesh 791122",
+            "name": "Chamardighi Health Center",
+            "address": "Chamardighi, West Bengal 713104",
             "phone_number": "-"
         },
         {
-            "name": "General Hospital Tezu",
-            "address": "Tezu, Arunachal Pradesh 792001",
+            "name": "PARAMBUA HEALTH CENTER",
+            "address": "Parambua, West Bengal 712410",
             "phone_number": "-"
         },
         {
-            "name": "Emmanuel BTM Hospital",
-            "address": "National Highway 52A, Cona County, Papu Nalah, Arunachal Pradesh 791110",
-            "phone_number": "094360 41756"
-        },
-        {
-            "name": "General Hospital, Aalo",
-            "address": "District, Mêdog County, Aalo, Arunachal Pradesh 791001",
+            "name": "palashi health center",
+            "address": "Palashi, West Bengal 722205    ",
             "phone_number": "-"
         },
         {
-            "name": "New Daring",
-            "address": "Medog, Nyingchi, Arunachal Pradesh 791101",
+            "name": "Apical Health Center",
+            "address": "South Jagtala, Maheshtala, Kolkata, West Bengal 700140      ",
             "phone_number": "-"
         },
         {
-            "name": "NERIST Health Unit",
-            "address": "Doimukh Road, Cona County, Nirjuli, Arunachal Pradesh 791109",
+            "name": "Balarambati Health Center",
+            "address": "Balarambati bansh, Tasla, West Bengal ",
             "phone_number": "-"
         },
         {
-            "name": "NHPC SLP Project Hospital Kolaptukar",
-            "address": "Arunachal Pradesh 791120",
+            "name": "Government health center",
+            "address": "Jhawtala Road, Sukanta Pally, Baguiati, Kolkata, West Bengal 700157",
             "phone_number": "-"
         },
         {
-            "name": "District Hospital Tawang",
-            "address": "Cona, Tawang, Arunachal Pradesh 790104",
+            "name": "Dakshin Nayabad Health Center",
+            "address": "Unnamed Road, Patharghata, Newtown, Nawabad, West Bengal 700135 ",
             "phone_number": "-"
         },
         {
-            "name": "District Hospital Seppa",
-            "address": "Cona, Shannan, Arunachal Pradesh 790102",
+            "name": "Khadinan Health Center",
+            "address": "Bagnan, sivtala, Khadinan, West Bengal 711303",
             "phone_number": "-"
         },
         {
-            "name": "Bakin Pertin General Hospital",
-            "address": "Mêdog County, Pasighat, Arunachal Pradesh 791102",
+            "name": "Damodarpur Health center",
+            "address": "Bankura, West Bengal 722201",
             "phone_number": "-"
         },
         {
-            "name": "Gyati Takka General Hospital, Ziro",
-            "address": "Hospital Road, Cona County, Ziro, Arunachal Pradesh 791120",
+            "name":"Evergreen Health Center",
+            "address": "Nabapally, satmondirtala, Singur, West Bengal 712409",
+            "phone_number": "078900 21327"
+
+        },
+        {
+            "name": "Monirambati Primary Health Center",
+            "address": "Jargram, West Bengal 713404",
+            "phone_number": "-"
+        },
+        {
+            "name": "Dhubulia Health Center",
+            "address": "NH 34, 741139,, Dhubulia, West Bengal",
+            "phone_number": "-"
+        },
+        {
+            "name": "Beliatore Primary Health Center",
+            "address": "Beliatore, West Bengal 722203",
+            "phone_number": "-"
+        },
+        {
+            "name": "Amgachia Primary Health Center",
+            "address": "Gopal Nagar, Kulerdari, West Bengal 700139",
+            "phone_number": "-"
+        },
+        {
+            "name":"Pahargora Health Centre",
+            "address": "Pahargora, West Bengal 723142",
+            "phone_number": "-"
+        },
+        {
+            "name": "Chatra Health Center",
+            "address": "Chatra, West Bengal 731238",
+            "phone_number": "-"
+        },
+        {
+            "name": "Health Units of KMC",
+            "address": "36A, Madan Mitra Lane, Kolkata, West Bengal 700006",
+            "phone_number": "-"
+        },
+        {
+            "name": "Bhabanipur primary health center",
+            "address": " Kushipur, West Bengal 731126",
             "phone_number": "094362 20143"
         },
         {
-            "name": "Government Hospital Roing",
-            "address": "Roing, Arunachal Pradesh 792110",
-            "phone_number": "-"
-        },
-        {
-            "name": "Military Hospital",
-            "address": "Cona, Shannan, Arunachal Pradesh 790116",
-            "phone_number": "-"
-        },
-        {
-            "name": "Ramakrishna Mission Hospital, Itanagar",
-            "address": "Cona County, Shannan, 791113",
-            "phone_number": "0360 221 2263"
-        },
-        {
-            "name": "Dr Lal PathLabs",
-            "address": "Near State General Hospital,Naharlagun:791110, Near State General Hospital, Arunachal Pradesh 791110",
-            "phone_number": "-"
-        },
-        {
-            "name": "Abees Clinic",
-            "address": "Mithun Gate, B Sector, Papum Pare, NH-52A, Itanagar Main Road, Itanagar, Itanagar, Arunachal Pradesh 791111",
-            "phone_number": "-"
-        },
-        {
-            "name": "Men-Tsee-Khang (Tibetan Medical & Astro. Institute)",
-            "address": "Garage Rd, Lama Camp, Tindolong, Arunachal Pradesh 792001",
+            "name": "Dabor Primary Health Centre",
+            "address": "Dabar, West Bengal 713331",
             "phone_number": "-"
         }
+       
+        
+     
     ]
 }
