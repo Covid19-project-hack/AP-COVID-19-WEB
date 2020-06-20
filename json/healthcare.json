@@ -1,108 +1,2174 @@
 {
     "data": [
         {
-            "name": "Nimta Health Center",
-            "address": "Aam Bagan Rd, Fatullahpur, Nimta, North Dumdum, West Bengal 700049",
-            "phone_number": "-"
+            "sno": "1",
+            "district": "ANANTAPUR",
+            "name": "Saveera Hospital Pvt Ltd, Anantapur",
+            "type": "Private Hospitals"
         },
         {
-            "name": "Chamardighi Health Center",
-            "address": "Chamardighi, West Bengal 713104",
-            "phone_number": "-"
+            "sno": "2",
+            "district": "CHITTOOR",
+            "name": "Apollo hospitals Enterprises Ltd - A & ARAGONDA(CHITTOOR)",
+            "type": "Private Medical College"
         },
         {
-            "name": "PARAMBUA HEALTH CENTER",
-            "address": "Parambua, West Bengal 712410",
-            "phone_number": "-"
+            "sno": "3",
+            "district": "CHITTOOR",
+            "name": "Padmavati Medical College, Tirupati",
+            "type": "Govt Medical College"
         },
         {
-            "name": "palashi health center",
-            "address": "Palashi, West Bengal 722205    ",
-            "phone_number": "-"
+            "sno": "4",
+            "district": "EAST GODAVARI",
+            "name": "Gsl Medical College And Gsl General Hospital, Rajanagaram",
+            "type": "Private Medical College"
         },
         {
-            "name": "Apical Health Center",
-            "address": "South Jagtala, Maheshtala, Kolkata, West Bengal 700140      ",
-            "phone_number": "-"
+            "sno": "5",
+            "district": "GUNTUR",
+            "name": "NRI Academy of Sciences",
+            "type": "Private Medical College"
         },
         {
-            "name": "Balarambati Health Center",
-            "address": "Balarambati bansh, Tasla, West Bengal ",
-            "phone_number": "-"
+            "sno": "6",
+            "district": "GUNTUR",
+            "name": "AIIMS",
+            "type": "Central Ministry Hospital"
         },
         {
-            "name": "Government health center",
-            "address": "Jhawtala Road, Sukanta Pally, Baguiati, Kolkata, West Bengal 700157",
-            "phone_number": "-"
+            "sno": "7",
+            "district": "KRISHNA",
+            "name": "Pinnamaneni Institue Of Medical Sciences, Gannavaram",
+            "type": "Private Medical College"
         },
         {
-            "name": "Dakshin Nayabad Health Center",
-            "address": "Unnamed Road, Patharghata, Newtown, Nawabad, West Bengal 700135 ",
-            "phone_number": "-"
+            "sno": "8",
+            "district": "KRISHNA",
+            "name": "GGH Vijayawada",
+            "type": "Govt Medical College"
         },
         {
-            "name": "Khadinan Health Center",
-            "address": "Bagnan, sivtala, Khadinan, West Bengal 711303",
-            "phone_number": "-"
+            "sno": "9",
+            "district": "KURNOOL",
+            "name": "Shantiram Medical College General Hospital",
+            "type": "Private Medical College"
         },
         {
-            "name": "Damodarpur Health center",
-            "address": "Bankura, West Bengal 722201",
-            "phone_number": "-"
+            "sno": "10",
+            "district": "PRAKASAM",
+            "name": "KIMS HOSPITALS, ONGOLE",
+            "type": "Private Hospitals"
         },
         {
-            "name":"Evergreen Health Center",
-            "address": "Nabapally, satmondirtala, Singur, West Bengal 712409",
-            "phone_number": "078900 21327"
-
+            "sno": "11",
+            "district": "SPSR NELLORE",
+            "name": "Narayana Medical College & Hospital",
+            "type": "Private Medical College"
         },
         {
-            "name": "Monirambati Primary Health Center",
-            "address": "Jargram, West Bengal 713404",
-            "phone_number": "-"
+            "sno": "12",
+            "district": "SPSR NELLORE",
+            "name": "Govt General Hospital Nellore",
+            "type": "Govt Medical College"
         },
         {
-            "name": "Dhubulia Health Center",
-            "address": "NH 34, 741139,, Dhubulia, West Bengal",
-            "phone_number": "-"
+            "sno": "13",
+            "district": "SRIKAKULAM",
+            "name": "GEMS HOSPITAL ADITYA EDUCATION SOCIETY - SRIKAKULAM",
+            "type": "Private Medical College"
         },
         {
-            "name": "Beliatore Primary Health Center",
-            "address": "Beliatore, West Bengal 722203",
-            "phone_number": "-"
+            "sno": "14",
+            "district": "VISAKHAPATANAM",
+            "name": "Visakha Institute of Medical Sciences - Visakhapatnam",
+            "type": "Govt Medical College"
         },
         {
-            "name": "Amgachia Primary Health Center",
-            "address": "Gopal Nagar, Kulerdari, West Bengal 700139",
-            "phone_number": "-"
+            "sno": "15",
+            "district": "VISAKHAPATANAM",
+            "name": "Gitam Institute Of Medical Sciences And Research&Visakhapatnam",
+            "type": "Private Medical College"
         },
         {
-            "name":"Pahargora Health Centre",
-            "address": "Pahargora, West Bengal 723142",
-            "phone_number": "-"
+            "sno": "16",
+            "district": "VISAKHAPATANAM",
+            "name": "INHS",
+            "type": "Central Ministry Hospital"
         },
         {
-            "name": "Chatra Health Center",
-            "address": "Chatra, West Bengal 731238",
-            "phone_number": "-"
+            "sno": "17",
+            "district": "VIZIANAGARAM",
+            "name": "MIMS HOSPITAL,NELLIMARLA,VIZIANGARAM",
+            "type": "Private Medical College"
         },
         {
-            "name": "Health Units of KMC",
-            "address": "36A, Madan Mitra Lane, Kolkata, West Bengal 700006",
-            "phone_number": "-"
+            "sno": "18",
+            "district": "WEST GODAVARI",
+            "name": "Alluri Sitarama Raju Academy Of Medical Sciences (Asram Hospital), Eluru",
+            "type": "Private Medical College"
         },
         {
-            "name": "Bhabanipur primary health center",
-            "address": " Kushipur, West Bengal 731126",
-            "phone_number": "094362 20143"
-        },
-        {
-            "name": "Dabor Primary Health Centre",
-            "address": "Dabar, West Bengal 713331",
-            "phone_number": "-"
+            "sno": "19",
+            "district": "Y.S.R. KADAPA",
+            "name": "Fathima Inistitute of Medical Sciences",
+            "type": "Private Medical College"
         }
-       
-        
-     
+    ],
+    "c2": [
+        {
+            "sno": "1",
+            "district": "ANANTAPUR",
+            "name": "CHANDRA SUPER SPECIALTY HOSPITAL, ANANTAPUR",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "2",
+            "district": "ANANTAPUR",
+            "name": "Government General Hospital, Anantapur",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "3",
+            "district": "ANANTAPUR",
+            "name": "Dr. YSR Memorial Hospital, Sai Nagar, Anantapur",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "4",
+            "district": "ANANTAPUR",
+            "name": "District Hospital , Hindupur",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "5",
+            "district": "ANANTAPUR",
+            "name": "Rural Development Trust Hospital, Bathalapalli, Anantapur dist.",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "6",
+            "district": "CHITTOOR",
+            "name": "ESI, HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "7",
+            "district": "CHITTOOR",
+            "name": "SVRR GGH, Tirupati",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "8",
+            "district": "CHITTOOR",
+            "name": "AMARA HOSPITAL, Tirupathi",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "9",
+            "district": "CHITTOOR",
+            "name": "PESIMSR-Kuppam",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "10",
+            "district": "CHITTOOR",
+            "name": "BIRRD HOSPITAL, Tirupathi",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "11",
+            "district": "EAST GODAVARI",
+            "name": "Konaseema Institute of Medical Science, Amalapuram",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "12",
+            "district": "EAST GODAVARI",
+            "name": "Sri Kiran Institute of Ophthalmology, Kakinada",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "13",
+            "district": "EAST GODAVARI",
+            "name": "District Hospital, Rajamahendravaram",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "14",
+            "district": "EAST GODAVARI",
+            "name": "Hope International Hospital, Kakinada",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "15",
+            "district": "EAST GODAVARI",
+            "name": "KIMS (Bollineni) Hospitals, (A Unit Of Bollineni Heart Centre Pvt Ltd), Rajahmundry",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "16",
+            "district": "GUNTUR",
+            "name": "Katuri Medical College And Hospital",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "17",
+            "district": "GUNTUR",
+            "name": "Manipal Health Enterprises Pvt Ltd",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "18",
+            "district": "GUNTUR",
+            "name": "District Hospital, Tenali",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "19",
+            "district": "GUNTUR",
+            "name": "GGH Guntur",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "20",
+            "district": "GUNTUR",
+            "name": "Lalitha Super Speciality Hospital P Ltd",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "21",
+            "district": "GUNTUR",
+            "name": "Dvc Hospital And Research Centre",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "22",
+            "district": "KRISHNA",
+            "name": "Liberty Hospitals, Auto Nagar, Vijayawada",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "23",
+            "district": "KRISHNA",
+            "name": "Kamineni Hospital, Kanuru, Vijayawada Rural",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "24",
+            "district": "KRISHNA",
+            "name": "Aayush Nri Lepl Healthcare Pvt Ltd, Ring Road, Vijayawada",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "25",
+            "district": "KRISHNA",
+            "name": "Andhra Hospitals Bhavanipuram Pvt Ltd, Bhavani puram, Vijayawada",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "26",
+            "district": "KRISHNA",
+            "name": "District Hospital -Machilipatnam",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "27",
+            "district": "KRISHNA",
+            "name": "Nimra Institute Of Medical Sciences And Research Center, Kondapalli, Vijayawada",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "28",
+            "district": "KURNOOL",
+            "name": "VISWABHARATHI HOSPITAL",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "29",
+            "district": "KURNOOL",
+            "name": "Medicover Hospital, Near APSRTC Bus Stand, Sampath Nagar, Kurnool,",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "30",
+            "district": "KURNOOL",
+            "name": "OMEGA HOSPITALS A UNIT OF KURNOOL INSTITUTE OF ONCOLOGY PVT LTD",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "31",
+            "district": "KURNOOL",
+            "name": "AMEELIO HOSPITAL A UNIT OF SURAKSHITHA HEALTHCARE PVT LTD",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "32",
+            "district": "KURNOOL",
+            "name": "GGH Kurnool",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "33",
+            "district": "PRAKASAM",
+            "name": "District Hospital Markapuram",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "34",
+            "district": "PRAKASAM",
+            "name": "GGH Ongole",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "35",
+            "district": "PRAKASAM",
+            "name": "VENKATARAMANA HOSPITALS",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "36",
+            "district": "PRAKASAM",
+            "name": "RAMESH SANGHAMITRA HOSPITAL",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "37",
+            "district": "PRAKASAM",
+            "name": "NALLURI NURSING HOME",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "38",
+            "district": "SPSR NELLORE",
+            "name": "Simhapuri Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "39",
+            "district": "SPSR NELLORE",
+            "name": "Apollo Speciality Hospitals",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "40",
+            "district": "SPSR NELLORE",
+            "name": "Lotus Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "41",
+            "district": "SPSR NELLORE",
+            "name": "Nellore Hospital, Muthukur Road, Nellore",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "42",
+            "district": "SPSR NELLORE",
+            "name": "Anasuya Institue of medical Sciences",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "43",
+            "district": "SRIKAKULAM",
+            "name": "District Hospital Tekkali",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "44",
+            "district": "SRIKAKULAM",
+            "name": "GMR VARALAKSHMI CARE HOSPITAL - RAJAM",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "45",
+            "district": "SRIKAKULAM",
+            "name": "DR GOLIVI HOSPITAL - SRIKAKULAM",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "46",
+            "district": "SRIKAKULAM",
+            "name": "Santhi Nursing Home, Kiranmouli Shopping Complex, Rama Laxmana Junction",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "47",
+            "district": "SRIKAKULAM",
+            "name": "GGH Srikakulam",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "48",
+            "district": "VISAKHAPATANAM",
+            "name": "M B Multispeciality Hospitals&Visakhapatnam",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "49",
+            "district": "VISAKHAPATANAM",
+            "name": "Apollo Hospitals Enterprises Ltd - Visakhapatnam",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "50",
+            "district": "VISAKHAPATANAM",
+            "name": "NRI Anil Neerukonda Hospital, Sangivalasa",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "51",
+            "district": "VISAKHAPATANAM",
+            "name": "Indus Hospital, Jagadamba Junction, Maharani Peta, Visakhapatnam",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "52",
+            "district": "VISAKHAPATANAM",
+            "name": "Gayatri Vidya Parishad Institute Of Health Care And Medical Technology&Visakhapatnam",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "53",
+            "district": "VIZIANAGARAM",
+            "name": "Pushpagiri Eye Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "54",
+            "district": "VIZIANAGARAM",
+            "name": "Gayatri Hospital, Subramanyam Peta, Babametta, Vizianagaram",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "55",
+            "district": "VIZIANAGARAM",
+            "name": "Queen' s NRI Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "56",
+            "district": "VIZIANAGARAM",
+            "name": "District Hospital Vizainagaram",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "57",
+            "district": "VIZIANAGARAM",
+            "name": "sri sai super specialty hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "58",
+            "district": "WEST GODAVARI",
+            "name": "AH-TADEPALLIGUDEM",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "59",
+            "district": "WEST GODAVARI",
+            "name": "District Hospital Eluru",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "60",
+            "district": "WEST GODAVARI",
+            "name": "APPLE HOSPITAL A UNIT OF TANUKU HOSPITAL, TANUKU",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "61",
+            "district": "WEST GODAVARI",
+            "name": "Bhimavaram Hospital, J.P.Road,Bhimavaram",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "62",
+            "district": "WEST GODAVARI",
+            "name": "New Life Hospital, Palakole",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "63",
+            "district": "Y.S.R. KADAPA",
+            "name": "AH- PULIVENDULA",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "64",
+            "district": "Y.S.R. KADAPA",
+            "name": "Sunrise Hospital, Kadapa",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "65",
+            "district": "Y.S.R. KADAPA",
+            "name": "Sri Sri Holistic Hospital - Kadapa",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "66",
+            "district": "Y.S.R. KADAPA",
+            "name": "DH Proddutur",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "67",
+            "district": "Y.S.R. KADAPA",
+            "name": "GGH Kadapa",
+            "type": "Govt Medical College"
+        }
+    ],
+    "c3": [
+        {
+            "sno": "1",
+            "district": "CHITTOOR",
+            "name": "PURNAS REMEDY HOSPITAL & TIRUPATI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "2",
+            "district": "CHITTOOR",
+            "name": "RVS hospital and Research Foundation & CHITTOOR",
+            "type": "Hospital"
+        },
+        {
+            "sno": "3",
+            "district": "CHITTOOR",
+            "name": "DH Madhanapalli",
+            "type": "Hospital"
+        },
+        {
+            "sno": "4",
+            "district": "CHITTOOR",
+            "name": "ANAND BABU HOSPITAL MADANAPALLE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "5",
+            "district": "CHITTOOR",
+            "name": "Chandra Mohan Nursing Home Madanapalli",
+            "type": "Hospital"
+        },
+        {
+            "sno": "6",
+            "district": "CHITTOOR",
+            "name": "AH KUPPAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "7",
+            "district": "CHITTOOR",
+            "name": "Area Hospital, Nagari",
+            "type": "Hospital"
+        },
+        {
+            "sno": "8",
+            "district": "CHITTOOR",
+            "name": "Rishi Ortho & Trauma Hosp-Chitoor",
+            "type": "Hospital"
+        },
+        {
+            "sno": "9",
+            "district": "CHITTOOR",
+            "name": "Chandra Mohan Nursing Home, Madanapalle",
+            "type": "Hospital"
+        },
+        {
+            "sno": "10",
+            "district": "EAST GODAVARI",
+            "name": "GSL Medical College",
+            "type": "Hospital"
+        },
+        {
+            "sno": "11",
+            "district": "GUNTUR",
+            "name": "VEERAIAH CHOWDAREY HOSPITAL, Narasarao Pet",
+            "type": "Hospital"
+        },
+        {
+            "sno": "12",
+            "district": "GUNTUR",
+            "name": "Peoples Trauma And Emergency Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "13",
+            "district": "GUNTUR",
+            "name": "TULASI MULTI SEPCLITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "14",
+            "district": "GUNTUR",
+            "name": "Ahalya NURSING HOME",
+            "type": "Hospital"
+        },
+        {
+            "sno": "15",
+            "district": "GUNTUR",
+            "name": "VARABABU SUPER SPECIALITY HOSPITALS (VBSSH-\r\nGUN),Narasarao Pet",
+            "type": "Hospital"
+        },
+        {
+            "sno": "16",
+            "district": "GUNTUR",
+            "name": "FARZANA HOSPITAL,Narasarao Pet",
+            "type": "Hospital"
+        },
+        {
+            "sno": "17",
+            "district": "GUNTUR",
+            "name": "Bmr Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "18",
+            "district": "GUNTUR",
+            "name": "AMAR ORTHO HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "19",
+            "district": "GUNTUR",
+            "name": "Ahalya Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "20",
+            "district": "GUNTUR",
+            "name": "SUSMITHA ORTHO AND TRAUMA CARE\r\nHOSPITAL,Narasarao Pet",
+            "type": "Hospital"
+        },
+        {
+            "sno": "21",
+            "district": "GUNTUR",
+            "name": "Sri Rama Hospital, Guntur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "22",
+            "district": "GUNTUR",
+            "name": "Sravani Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "23",
+            "district": "GUNTUR",
+            "name": "Aswini Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "24",
+            "district": "GUNTUR",
+            "name": "KNR HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "25",
+            "district": "GUNTUR",
+            "name": "CVR HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "26",
+            "district": "GUNTUR",
+            "name": "KONDAVEEDU ENT HSPITAL,Narasarao Pet",
+            "type": "Hospital"
+        },
+        {
+            "sno": "27",
+            "district": "GUNTUR",
+            "name": "Sailaja Multispeciality Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "28",
+            "district": "GUNTUR",
+            "name": "Aswani Nursing Home",
+            "type": "Hospital"
+        },
+        {
+            "sno": "29",
+            "district": "GUNTUR",
+            "name": "SRI SAI HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "30",
+            "district": "GUNTUR",
+            "name": "Sudarsani Eye Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "31",
+            "district": "GUNTUR",
+            "name": "VENKATESWARA NURSING HOME",
+            "type": "Hospital"
+        },
+        {
+            "sno": "32",
+            "district": "GUNTUR",
+            "name": "Rr Speciality Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "33",
+            "district": "GUNTUR",
+            "name": "SRI LAKSHMI SUPER SPECIALITY HOSPITAL,Guntur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "34",
+            "district": "GUNTUR",
+            "name": "Star Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "35",
+            "district": "GUNTUR",
+            "name": "Sri Balaji Hospitals",
+            "type": "Hospital"
+        },
+        {
+            "sno": "36",
+            "district": "GUNTUR",
+            "name": "ASWINI NETHRALAYAM,Narasarao Pet",
+            "type": "Hospital"
+        },
+        {
+            "sno": "37",
+            "district": "GUNTUR",
+            "name": "Karumuri Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "38",
+            "district": "GUNTUR",
+            "name": "Latha Childrens Hospital ,Guntur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "39",
+            "district": "GUNTUR",
+            "name": "Uday Hospitals",
+            "type": "Hospital"
+        },
+        {
+            "sno": "40",
+            "district": "GUNTUR",
+            "name": "SRI KRSIHNNA HOPSITAL,Narasarao Pet",
+            "type": "Hospital"
+        },
+        {
+            "sno": "41",
+            "district": "GUNTUR",
+            "name": "Ent Nursing Home",
+            "type": "Hospital"
+        },
+        {
+            "sno": "42",
+            "district": "GUNTUR",
+            "name": "Kavuru Institute Of Medical Sciences Kims Hospital,Tenali",
+            "type": "Hospital"
+        },
+        {
+            "sno": "43",
+            "district": "GUNTUR",
+            "name": "M N Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "44",
+            "district": "GUNTUR",
+            "name": "PUVVADA HOSPITALS (PUH-GUN)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "45",
+            "district": "GUNTUR",
+            "name": "Vedanta Hospitals",
+            "type": "Hospital"
+        },
+        {
+            "sno": "46",
+            "district": "GUNTUR",
+            "name": "SRINIVASA MULTI SPESALITY HOSPITAL ,Guntur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "47",
+            "district": "GUNTUR",
+            "name": "Hyma Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "48",
+            "district": "GUNTUR",
+            "name": "MOTHER TERESA MULTY SPECIALITY\r\nHOSPITAL,Narasarao Pet",
+            "type": "Hospital"
+        },
+        {
+            "sno": "49",
+            "district": "GUNTUR",
+            "name": "Sri Ramachandra Childrens And Dental Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "50",
+            "district": "GUNTUR",
+            "name": "GUNTUR KIDNEY MULTI SPESALITY HOPSITAL\r\nGUNTUR ,Guntur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "51",
+            "district": "GUNTUR",
+            "name": "NANDANA HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "52",
+            "district": "GUNTUR",
+            "name": "TEJANURSING HOME (TEJA-NPT),Narasarao Pet",
+            "type": "Hospital"
+        },
+        {
+            "sno": "53",
+            "district": "GUNTUR",
+            "name": "Sanjivi Orthopaedic And Physiotherapy Centre",
+            "type": "Hospital"
+        },
+        {
+            "sno": "54",
+            "district": "GUNTUR",
+            "name": "Amaravathi Institute of Medical Sciences, Guntur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "55",
+            "district": "GUNTUR",
+            "name": "Amrutha Hospitals",
+            "type": "Hospital"
+        },
+        {
+            "sno": "56",
+            "district": "GUNTUR",
+            "name": "ST JOSEPH,Guntur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "57",
+            "district": "GUNTUR",
+            "name": "AMULYANURSING HOME HOSPITAL,Narasarao Pet",
+            "type": "Hospital"
+        },
+        {
+            "sno": "58",
+            "district": "GUNTUR",
+            "name": "Praja Vydya Sala",
+            "type": "Hospital"
+        },
+        {
+            "sno": "59",
+            "district": "GUNTUR",
+            "name": "Yerras Super Speciality Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "60",
+            "district": "GUNTUR",
+            "name": "Sree Prathima Superspeciality Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "61",
+            "district": "GUNTUR",
+            "name": "LAKSHMI AARUSH CATH LAB,Guntur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "62",
+            "district": "KRISHNA",
+            "name": "Sentini Hospitals Private Limited, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "63",
+            "district": "KRISHNA",
+            "name": "Vijay Orthopedic And Accident Care, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "64",
+            "district": "KRISHNA",
+            "name": "Best Hospital, Ramavarappadu ring, Vijayawada Rural",
+            "type": "Hospital"
+        },
+        {
+            "sno": "65",
+            "district": "KRISHNA",
+            "name": "Metro Superspeciality Hospitals, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "66",
+            "district": "KRISHNA",
+            "name": "Usha Cardiac Centre Limited, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "67",
+            "district": "KRISHNA",
+            "name": "Srikara, Benz Circle, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "68",
+            "district": "KRISHNA",
+            "name": "Aims For Child Health, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "69",
+            "district": "KRISHNA",
+            "name": "AH-GUDIVADA",
+            "type": "Hospital"
+        },
+        {
+            "sno": "70",
+            "district": "KRISHNA",
+            "name": "Vijaya Super Speciality Hospital, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "71",
+            "district": "KRISHNA",
+            "name": "Hcg City Cancer Centre, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "72",
+            "district": "KRISHNA",
+            "name": "Smile Multispecialty Hospitals, Ajit Sing Nagar, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "73",
+            "district": "KRISHNA",
+            "name": "Praveen Cardiac Centre, Moghal rajpuram, vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "74",
+            "district": "KRISHNA",
+            "name": "Time Hospitals Private Limited, Auto Nagar, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "75",
+            "district": "KRISHNA",
+            "name": "Andhrahospitalsvijayawadapvtltd, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "76",
+            "district": "KRISHNA",
+            "name": "Roopa Orthopaedic And Multi Speciality Hospital, Patamata, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "77",
+            "district": "KRISHNA",
+            "name": "V R L S Memorial Neuro Hospital, Near PVP Mall, Bandar Road, Vijayawada.",
+            "type": "Hospital"
+        },
+        {
+            "sno": "78",
+            "district": "KRISHNA",
+            "name": "Sri Anuhospitals Pvt Ltd, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "79",
+            "district": "KRISHNA",
+            "name": "Nagarjuna Hospital, Kanuru, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "80",
+            "district": "KRISHNA",
+            "name": "Life Line Trimurty Hospital, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "81",
+            "district": "KRISHNA",
+            "name": "Trust Hospital, Benz Circle, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "82",
+            "district": "KRISHNA",
+            "name": "Capital Hospitals, Kanuru, Vijayawada Rural",
+            "type": "Hospital"
+        },
+        {
+            "sno": "83",
+            "district": "KRISHNA",
+            "name": "K V Shine Hospitals Private Limited, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "84",
+            "district": "KRISHNA",
+            "name": "M V S Accident Hospital, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "85",
+            "district": "KRISHNA",
+            "name": "Anu Institute Of Nuero And Cardiac Science A Unit Of Sri Anu Hospitals Pvt Ltd, Yenikepadu, Vijayawada Rural",
+            "type": "Hospital"
+        },
+        {
+            "sno": "86",
+            "district": "KRISHNA",
+            "name": "Indobritish Hospital, Benz Circle, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "87",
+            "district": "KRISHNA",
+            "name": "Bmr Hospitals, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "88",
+            "district": "KRISHNA",
+            "name": "Andhra Hospitals Machilipatnam A Unit Of Viswadeep Medical Services Pvt Ltd, Machilipatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "89",
+            "district": "KRISHNA",
+            "name": "Ms Sankaranetrachikitsalaya, Benz Circle, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "90",
+            "district": "KRISHNA",
+            "name": "Dr Tvs Clinic, Gandhi Nagar, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "91",
+            "district": "KRISHNA",
+            "name": "Annapurna Multi Speciality Hospital, Gudivada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "92",
+            "district": "KRISHNA",
+            "name": "Andhra Health Diagnostic Services Limitedglobal Vijayawada, Near- Busstand, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "93",
+            "district": "KRISHNA",
+            "name": "Lakshmi Sandhya Healthcare Pvt Ltd, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "94",
+            "district": "KRISHNA",
+            "name": "Citi Orthopaedic Center, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "95",
+            "district": "KRISHNA",
+            "name": "Sri Swarupa Super Speciality Hospital,Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "96",
+            "district": "KRISHNA",
+            "name": "Hcg Curie City Cancer Centre Health Care Global Enterprises Ltd, Gunadala, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "97",
+            "district": "KRISHNA",
+            "name": "Viswa Chakra Orthopaedic Hospital, Machilipatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "98",
+            "district": "KRISHNA",
+            "name": "Chikitsa Hospitals, Nunna, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "99",
+            "district": "KRISHNA",
+            "name": "Prasanth Hospital, Bandar Road, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "100",
+            "district": "KRISHNA",
+            "name": "Dr.Ramesh Cardiac And Multispeciality Hospital Ltd, Near- ITI College, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "101",
+            "district": "KRISHNA",
+            "name": "Help Hospitals Pvt Ltd, Bandar Road, Near Raghavaiah Park, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "102",
+            "district": "KRISHNA",
+            "name": "Chaitanya Hospital, Near Siddhardha College, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "103",
+            "district": "KRISHNA",
+            "name": "Heart Care Centre, Suryarao Pet, Vijayawada",
+            "type": "Hospital"
+        },
+        {
+            "sno": "104",
+            "district": "KURNOOL",
+            "name": "SAIRAM NURSING HOME",
+            "type": "Hospital"
+        },
+        {
+            "sno": "105",
+            "district": "KURNOOL",
+            "name": "SAI VANI HOSPITALS",
+            "type": "Hospital"
+        },
+        {
+            "sno": "106",
+            "district": "KURNOOL",
+            "name": "SGR HOSPITALS",
+            "type": "Hospital"
+        },
+        {
+            "sno": "107",
+            "district": "KURNOOL",
+            "name": "OMNI Hospitals, a unit of Ms. Incor Padmachandra Hospitls Pvt. Ltd",
+            "type": "Hospital"
+        },
+        {
+            "sno": "108",
+            "district": "KURNOOL",
+            "name": "Medicare Hospitals",
+            "type": "Hospital"
+        },
+        {
+            "sno": "109",
+            "district": "KURNOOL",
+            "name": "VASAVI APEX HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "110",
+            "district": "KURNOOL",
+            "name": "MYCURE HOSPITALS A UNIT OF SAHRUDAYA HEALTH CARE PRIVATE LIMITED KURNOOL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "111",
+            "district": "KURNOOL",
+            "name": "MADHUMANI NURSING HOME",
+            "type": "Hospital"
+        },
+        {
+            "sno": "112",
+            "district": "KURNOOL",
+            "name": "NOBLE MULTI SPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "113",
+            "district": "KURNOOL",
+            "name": "KURNOOL RAINBOW HOSPITALS",
+            "type": "Hospital"
+        },
+        {
+            "sno": "114",
+            "district": "KURNOOL",
+            "name": "MADHU CHILDREN HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "115",
+            "district": "KURNOOL",
+            "name": "GVR CHILDREN HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "116",
+            "district": "KURNOOL",
+            "name": "KURNOOL HEART AND MULTI SPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "117",
+            "district": "KURNOOL",
+            "name": "K V R HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "118",
+            "district": "KURNOOL",
+            "name": "AMMA HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "119",
+            "district": "KURNOOL",
+            "name": "Aayushman Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "120",
+            "district": "KURNOOL",
+            "name": "JAYA SPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "121",
+            "district": "KURNOOL",
+            "name": "Viswabharathi General Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "122",
+            "district": "KURNOOL",
+            "name": "DEEPAK TEJA HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "123",
+            "district": "KURNOOL",
+            "name": "District Hospital Nandyal",
+            "type": "Hospital"
+        },
+        {
+            "sno": "124",
+            "district": "KURNOOL",
+            "name": "AGRASENI HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "125",
+            "district": "KURNOOL",
+            "name": "Gowri Gopal Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "126",
+            "district": "KURNOOL",
+            "name": "Vijaya Hospital - Kurnool",
+            "type": "Hospital"
+        },
+        {
+            "sno": "127",
+            "district": "KURNOOL",
+            "name": "KGN Multi Speciality Hospital, Kurnool",
+            "type": "Hospital"
+        },
+        {
+            "sno": "128",
+            "district": "KURNOOL",
+            "name": "Swami super speciality Netralayam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "129",
+            "district": "KURNOOL",
+            "name": "GNR HOSPITALS",
+            "type": "Hospital"
+        },
+        {
+            "sno": "130",
+            "district": "KURNOOL",
+            "name": "SUNRISE ORTHO AND MULTISPECIALITY HOSPITALS",
+            "type": "Hospital"
+        },
+        {
+            "sno": "131",
+            "district": "KURNOOL",
+            "name": "Chaitanya 1 Jr. College Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "132",
+            "district": "KURNOOL",
+            "name": "Seven Hills Super Speciality Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "133",
+            "district": "KURNOOL",
+            "name": "AH-ADONI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "134",
+            "district": "KURNOOL",
+            "name": "CNHOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "135",
+            "district": "KURNOOL",
+            "name": "SRI SAI SATYA HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "136",
+            "district": "KURNOOL",
+            "name": "SUNRISE MULTISPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "137",
+            "district": "KURNOOL",
+            "name": "SANJEEVANI HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "138",
+            "district": "KURNOOL",
+            "name": "SANJEEVANI HEALTH CARE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "139",
+            "district": "KURNOOL",
+            "name": "SREE SAI MULTISPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "140",
+            "district": "KURNOOL",
+            "name": "BALAJI HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "141",
+            "district": "PRAKASAM",
+            "name": "HCG MNR",
+            "type": "Hospital"
+        },
+        {
+            "sno": "142",
+            "district": "PRAKASAM",
+            "name": "VIJAYA",
+            "type": "Hospital"
+        },
+        {
+            "sno": "143",
+            "district": "PRAKASAM",
+            "name": "PRASAD MULTY SPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "144",
+            "district": "PRAKASAM",
+            "name": "AH KANDUKUR",
+            "type": "Hospital"
+        },
+        {
+            "sno": "145",
+            "district": "PRAKASAM",
+            "name": "GORANTLA SUPER SPECIALTY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "146",
+            "district": "PRAKASAM",
+            "name": "VASUDHAKLYAN MULTI SPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "147",
+            "district": "PRAKASAM",
+            "name": "PRAKASAM SUPERSPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "148",
+            "district": "PRAKASAM",
+            "name": "CHANDAMAMA CHILDRENS HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "149",
+            "district": "PRAKASAM",
+            "name": "VAATSALYA HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "150",
+            "district": "PRAKASAM",
+            "name": "PANDU CHILDRENS AND MULTI SPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "151",
+            "district": "PRAKASAM",
+            "name": "AH CHIRALA",
+            "type": "Hospital"
+        },
+        {
+            "sno": "152",
+            "district": "PRAKASAM",
+            "name": "Anjani super speciality hospital ongole",
+            "type": "Hospital"
+        },
+        {
+            "sno": "153",
+            "district": "PRAKASAM",
+            "name": "Suraksha HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "154",
+            "district": "PRAKASAM",
+            "name": "ONGOLE CHILDREN HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "155",
+            "district": "PRAKASAM",
+            "name": "ANEESH KIDNEY CENTER",
+            "type": "Hospital"
+        },
+        {
+            "sno": "156",
+            "district": "PRAKASAM",
+            "name": "SRIPRANTHI HOSPITAL AND TEST TUBE BABY CENTRE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "157",
+            "district": "PRAKASAM",
+            "name": "Muppa rosaiahHOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "158",
+            "district": "PRAKASAM",
+            "name": "AMRUTHA HEART HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "159",
+            "district": "PRAKASAM",
+            "name": "SRI KHARTHIKEYA",
+            "type": "Hospital"
+        },
+        {
+            "sno": "160",
+            "district": "PRAKASAM",
+            "name": "MANNE PARDHASARADHI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "161",
+            "district": "PRAKASAM",
+            "name": "AMMA CHILDRENS HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "162",
+            "district": "PRAKASAM",
+            "name": "SRI KANDULA OBUL REDDY",
+            "type": "Hospital"
+        },
+        {
+            "sno": "163",
+            "district": "PRAKASAM",
+            "name": "KOTAREDDY",
+            "type": "Hospital"
+        },
+        {
+            "sno": "164",
+            "district": "PRAKASAM",
+            "name": "ALURI MULTI SPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "165",
+            "district": "PRAKASAM",
+            "name": "SRI KAMAKSHI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "166",
+            "district": "PRAKASAM",
+            "name": "KAKUMANI HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "167",
+            "district": "PRAKASAM",
+            "name": "SAIVEENA CHILDRENS HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "168",
+            "district": "PRAKASAM",
+            "name": "JIMS HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "169",
+            "district": "PRAKASAM",
+            "name": "SAI NURSING",
+            "type": "Hospital"
+        },
+        {
+            "sno": "170",
+            "district": "PRAKASAM",
+            "name": "ICON HOPSITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "171",
+            "district": "PRAKASAM",
+            "name": "Ravi children Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "172",
+            "district": "SPSR NELLORE",
+            "name": "ST.Jospeh's General Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "173",
+            "district": "SPSR NELLORE",
+            "name": "AH GUDUR",
+            "type": "Hospital"
+        },
+        {
+            "sno": "174",
+            "district": "SPSR NELLORE",
+            "name": "Rainbow Super Speciality Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "175",
+            "district": "SPSR NELLORE",
+            "name": "Mydhili Hospital - Gudur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "176",
+            "district": "SPSR NELLORE",
+            "name": "Kandukuri Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "177",
+            "district": "SPSR NELLORE",
+            "name": "JayaBharat Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "178",
+            "district": "SPSR NELLORE",
+            "name": "Sri.Venkateswara Praja Vydyasala",
+            "type": "Hospital"
+        },
+        {
+            "sno": "179",
+            "district": "SPSR NELLORE",
+            "name": "District Hospital Atmakur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "180",
+            "district": "SPSR NELLORE",
+            "name": "Dr G Vijayakumar Memorial Nellore Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "181",
+            "district": "SPSR NELLORE",
+            "name": "Dr.Praveen Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "182",
+            "district": "SPSR NELLORE",
+            "name": "CR Reddy Hospital - Gudur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "183",
+            "district": "SPSR NELLORE",
+            "name": "IRCS Cancer Hospital (Indian Red Cross Society Cancer)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "184",
+            "district": "SPSR NELLORE",
+            "name": "Abhiram Institute Of Medical Sciences",
+            "type": "Hospital"
+        },
+        {
+            "sno": "185",
+            "district": "SPSR NELLORE",
+            "name": "Nizams Little Star Children Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "186",
+            "district": "SPSR NELLORE",
+            "name": "Krishna Institute of Medical Sciences Bollineni Hospital Nellore",
+            "type": "Hospital"
+        },
+        {
+            "sno": "187",
+            "district": "SPSR NELLORE",
+            "name": "Vijaya krishna Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "188",
+            "district": "SPSR NELLORE",
+            "name": "Vijaya Care Multi speciality Hospital and Infertility Centre",
+            "type": "Hospital"
+        },
+        {
+            "sno": "189",
+            "district": "SPSR NELLORE",
+            "name": "AH-KAVALI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "190",
+            "district": "SRIKAKULAM",
+            "name": "SINDHURA HOSPITAL - SRIKAKULAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "191",
+            "district": "SRIKAKULAM",
+            "name": "KIMS Sai Seshadri Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "192",
+            "district": "SRIKAKULAM",
+            "name": "M S BAGGU SAROJINI DEVI HOSPITAL - SRIKAKULAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "193",
+            "district": "SRIKAKULAM",
+            "name": "PVS Ram Mohan Rao Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "194",
+            "district": "SRIKAKULAM",
+            "name": "AMRUTHA HOSPITAL - RAJAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "195",
+            "district": "SRIKAKULAM",
+            "name": "AH-Rajam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "196",
+            "district": "SRIKAKULAM",
+            "name": "AH- PALAKONDA",
+            "type": "Hospital"
+        },
+        {
+            "sno": "197",
+            "district": "VISAKHAPATANAM",
+            "name": "lions cancer hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "198",
+            "district": "VISAKHAPATANAM",
+            "name": "Surya Sri Hospital Private Ltd.&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "199",
+            "district": "VISAKHAPATANAM",
+            "name": "Padmaja Hospital&Gajuwaka",
+            "type": "Hospital"
+        },
+        {
+            "sno": "200",
+            "district": "VISAKHAPATANAM",
+            "name": "Annapoorna Hopsital&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "201",
+            "district": "VISAKHAPATANAM",
+            "name": "SAISPOORTHY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "202",
+            "district": "VISAKHAPATANAM",
+            "name": "Sevenhills Hospitals Ltd&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "203",
+            "district": "VISAKHAPATANAM",
+            "name": "Omni Rk Hospital A Unit Of Incor Hospitals Vizag Pvt Ltd&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "204",
+            "district": "VISAKHAPATANAM",
+            "name": "Anbeach Hospital&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "205",
+            "district": "VISAKHAPATANAM",
+            "name": "Sankar Foundation Eye Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "206",
+            "district": "VISAKHAPATANAM",
+            "name": "VENKATARAMA HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "207",
+            "district": "VISAKHAPATANAM",
+            "name": "Suraksha Health Park Private Limited&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "208",
+            "district": "VISAKHAPATANAM",
+            "name": "Mycure Hospitalsa Unit Of Sahrudaya Helath Care Private Limited&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "209",
+            "district": "VISAKHAPATANAM",
+            "name": "AH-PADERU(T)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "210",
+            "district": "VISAKHAPATANAM",
+            "name": "Aditya Multi Care Hospital&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "211",
+            "district": "VISAKHAPATANAM",
+            "name": "District Hospital Anakapalli",
+            "type": "Hospital"
+        },
+        {
+            "sno": "212",
+            "district": "VISAKHAPATANAM",
+            "name": "Star Pinnacle Heart Centre Pvt Ltd&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "213",
+            "district": "VISAKHAPATANAM",
+            "name": "Ms Mahatma Gandhi Cancer Hospital And Research Institute&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "214",
+            "district": "VISAKHAPATANAM",
+            "name": "AH-ARAKU(T)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "215",
+            "district": "VISAKHAPATANAM",
+            "name": "Homi Bhabha Cancer Hospital And Research Centre",
+            "type": "Hospital"
+        },
+        {
+            "sno": "216",
+            "district": "VISAKHAPATANAM",
+            "name": "Abc Hospitals&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "217",
+            "district": "VISAKHAPATANAM",
+            "name": "Chest Hospital Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "218",
+            "district": "VISAKHAPATANAM",
+            "name": "St Anns Jubilee Memorial Hospital&Malkapuram",
+            "type": "Hospital"
+        },
+        {
+            "sno": "219",
+            "district": "VISAKHAPATANAM",
+            "name": "Lions District 324 C1 Cancer Treatment And Research Center&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "220",
+            "district": "VISAKHAPATANAM",
+            "name": "AH-NARSIPATNAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "221",
+            "district": "VISAKHAPATANAM",
+            "name": "PADMAJA HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "222",
+            "district": "VISAKHAPATANAM",
+            "name": "Sraddha Hospital&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "223",
+            "district": "VISAKHAPATANAM",
+            "name": "Lg Hospital,Vishakhapatnam&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "224",
+            "district": "VISAKHAPATANAM",
+            "name": "ST ANNS JM HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "225",
+            "district": "VISAKHAPATANAM",
+            "name": "Smilecare Multispeciality Durga Hospital&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "226",
+            "district": "VISAKHAPATANAM",
+            "name": "Kims Icon Hospital(A Unit Of Icon Krishi Institute Of Medical Sciences(P)Ltd)&Sheela Nagar",
+            "type": "Hospital"
+        },
+        {
+            "sno": "227",
+            "district": "VISAKHAPATANAM",
+            "name": "Vasugan Medical Specialities Pvt Ltd Indus Hospital- Vizag&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "228",
+            "district": "VISAKHAPATANAM",
+            "name": "SURAKHA HEALTH PARK PVT LTD",
+            "type": "Hospital"
+        },
+        {
+            "sno": "229",
+            "district": "VISAKHAPATANAM",
+            "name": "Ramsaranya Hospitals Pvt Ltd Unit Ii&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "230",
+            "district": "VISAKHAPATANAM",
+            "name": "Hcg Pinnacle Cancer Centre&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "231",
+            "district": "VISAKHAPATANAM",
+            "name": "Visakha Hospitals And Diagnostics Ltd Care Hospital Iii&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "232",
+            "district": "VISAKHAPATANAM",
+            "name": "SR HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "233",
+            "district": "VISAKHAPATANAM",
+            "name": "Raghavendra Hospital&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "234",
+            "district": "VISAKHAPATANAM",
+            "name": "Gajuwaka Hospitals Pvt Ltd Rk Hospital&Gajuwaka",
+            "type": "Hospital"
+        },
+        {
+            "sno": "235",
+            "district": "VISAKHAPATANAM",
+            "name": "Vijetha Hospital&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "236",
+            "district": "VISAKHAPATANAM",
+            "name": "USHA PRIME MULTI SPECIALITY HOSPITAL A DIVISION OF CHILUKURI HEALTHCARE PVT LTD",
+            "type": "Hospital"
+        },
+        {
+            "sno": "237",
+            "district": "VISAKHAPATANAM",
+            "name": "Queens Nri Hospitals&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "238",
+            "district": "VISAKHAPATANAM",
+            "name": "Dr Demudubabu Kamala Nursing Home&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "239",
+            "district": "VISAKHAPATANAM",
+            "name": "KALA HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "240",
+            "district": "VISAKHAPATANAM",
+            "name": "Venkatarama Hospital&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "241",
+            "district": "VISAKHAPATANAM",
+            "name": "BHEL Hospital, HPVP, Vizag",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "242",
+            "district": "VISAKHAPATANAM",
+            "name": "Pradhama Multi Speciality Hospitals And Reasearch Institute Ltd&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "243",
+            "district": "VISAKHAPATANAM",
+            "name": "Care Hospital&Visakhapatnam",
+            "type": "Hospital"
+        },
+        {
+            "sno": "244",
+            "district": "VIZIANAGARAM",
+            "name": "MUVVA GOPALA HOSPITAL,VIZIANAGRAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "245",
+            "district": "VIZIANAGARAM",
+            "name": "MARUTHI HOSPITAL,VIZIANAGARAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "246",
+            "district": "VIZIANAGARAM",
+            "name": "VENKATA RAMA HOSPITAL,VIZIANAGARAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "247",
+            "district": "VIZIANAGARAM",
+            "name": "ANDHRA HOSPITALS,VIZIANAGARAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "248",
+            "district": "VIZIANAGARAM",
+            "name": "ABHINAV NURSING HOME, S KOTA, VIZIANGARAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "249",
+            "district": "VIZIANAGARAM",
+            "name": "Tirumala Hospital,Vijayanagaram",
+            "type": "Hospital"
+        },
+        {
+            "sno": "250",
+            "district": "VIZIANAGARAM",
+            "name": "AH, PARVATIPURAM (T)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "251",
+            "district": "VIZIANAGARAM",
+            "name": "KOLAPARTHI HOSPITAL,S KOTA,VIZIANGARAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "252",
+            "district": "VIZIANAGARAM",
+            "name": "VENKATA PADMA HOSPITAL, VIZIANAGARAM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "253",
+            "district": "WEST GODAVARI",
+            "name": "Sri Surya Nursing Home, Palakollu",
+            "type": "Hospital"
+        },
+        {
+            "sno": "254",
+            "district": "WEST GODAVARI",
+            "name": "Sri Surya Hospital Narasapuram",
+            "type": "Hospital"
+        },
+        {
+            "sno": "255",
+            "district": "Y.S.R. KADAPA",
+            "name": "AMEEN MULTI SPECIALITY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "256",
+            "district": "Y.S.R. KADAPA",
+            "name": "Sri Sai Nursing Home",
+            "type": "Hospital"
+        },
+        {
+            "sno": "257",
+            "district": "Y.S.R. KADAPA",
+            "name": "AMARAVATHI HOSPITALS, Rayachoty",
+            "type": "Hospital"
+        },
+        {
+            "sno": "258",
+            "district": "Y.S.R. KADAPA",
+            "name": "Padamvathi Hospital - Badvel",
+            "type": "Hospital"
+        },
+        {
+            "sno": "259",
+            "district": "Y.S.R. KADAPA",
+            "name": "PRIYABHAVANA HOSPITALS PRIVATE LIMITED",
+            "type": "Hospital"
+        },
+        {
+            "sno": "260",
+            "district": "Y.S.R. KADAPA",
+            "name": "B G R HOSPITAL, Proddatur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "261",
+            "district": "Y.S.R. KADAPA",
+            "name": "Surya Hospital - Kadapa",
+            "type": "Hospital"
+        },
+        {
+            "sno": "262",
+            "district": "Y.S.R. KADAPA",
+            "name": "Bharathi Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "263",
+            "district": "Y.S.R. KADAPA",
+            "name": "SREE HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "264",
+            "district": "Y.S.R. KADAPA",
+            "name": "DINESH MEDICAL CENTRE A Unit Of Carmel Health Care Pvt Ltd",
+            "type": "Hospital"
+        },
+        {
+            "sno": "265",
+            "district": "Y.S.R. KADAPA",
+            "name": "Shree Madan Multi Speciality Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "266",
+            "district": "Y.S.R. KADAPA",
+            "name": "Himalaya Multi Speciality Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "267",
+            "district": "Y.S.R. KADAPA",
+            "name": "Sree Mohan Hospitals - Kadapa",
+            "type": "Hospital"
+        },
+        {
+            "sno": "268",
+            "district": "Y.S.R. KADAPA",
+            "name": "KADAPA HOSPITALS, Kadapa",
+            "type": "Hospital"
+        },
+        {
+            "sno": "269",
+            "district": "Y.S.R. KADAPA",
+            "name": "TEJA HOSPITAL - Proddatur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "270",
+            "district": "Y.S.R. KADAPA",
+            "name": "KOMMA SUPER SPECIALITY HOSPITAL - Kadapa",
+            "type": "Hospital"
+        },
+        {
+            "sno": "271",
+            "district": "Y.S.R. KADAPA",
+            "name": "MM Hospital - Kadapa",
+            "type": "Hospital"
+        },
+        {
+            "sno": "272",
+            "district": "Y.S.R. KADAPA",
+            "name": "NANDIKA HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "273",
+            "district": "Y.S.R. KADAPA",
+            "name": "Tirumala Hospital - Kadapa",
+            "type": "Hospital"
+        },
+        {
+            "sno": "274",
+            "district": "Y.S.R. KADAPA",
+            "name": "PAVANI HOSPITAL- Rajampeta",
+            "type": "Hospital"
+        },
+        {
+            "sno": "275",
+            "district": "Y.S.R. KADAPA",
+            "name": "Sree Srinivasa Hospital",
+            "type": "Hospital"
+        }
     ]
 }

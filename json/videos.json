@@ -1,0 +1,25 @@
+{
+    "data":[
+    {
+        "name": "COVID-19 Video-1",
+        "link": "http://hmfw.ap.gov.in/audios/carona_video1.mp4"
+    },
+    {
+        "name": "COVID-19 Video-2",
+        "link": "http://hmfw.ap.gov.in/audios/carona_video2.mp4"
+    },
+    {
+        "name": "COVID-19 Video-3",
+        "link": "http://hmfw.ap.gov.in/audios/carona_video3.mp4"
+    },
+    {
+        "name": "COVID-19 Video-4",
+        "link": "http://hmfw.ap.gov.in/audios/carona_video4.mp4"
+    },
+    {
+        "name": "COVID-19 Video-5",
+        "link": "http://hmfw.ap.gov.in/audios/carona_video5.mp4"
+    }
+    
+]
+}

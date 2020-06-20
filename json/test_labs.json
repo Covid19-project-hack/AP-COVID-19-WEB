@@ -1,50 +1,352 @@
 {
     "data": [
         {
-            "name": "Midnapore Medical College and Hospital",
-            "address": "Vidyasagar Rd, Midnapore, West Bengal 721101",
-            "phone_number": " 03222 222 400"
+            "sno": "1",
+            "name": "Sri   Venkateswara   Institute   of   Medical Sciences, Tirupati",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Diamond Harbour Government Medical College and south 24 pgs district hospital",
-            "address": "Diamond Harbour Rd, Harindanga, Diamond Harbour, West Bengal 743331",
-            "phone_number": " 03174 255 633"
+            "sno": "2",
+            "name": "Sri     Venkateswara     Medical     College, Tirupati",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Uluberia Sub Divisional Hospital",
-            "address": "Station Road, Bazarpara, Uluberia, Howrah, West Bengal 711315",
-            "phone_number": " 091638 25620"
+            "sno": "3",
+            "name": "Rangaraya Medical College, Kakinada",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Bankura Sammilani Medical College And Hospital",
-            "address": "Bankura Sammilani Medical College Rd, kenduadihi, Bankura, West Bengal 722102",
-            "phone_number": "03242 244 700"
+            "sno": "4",
+            "name": "Sidhartha Medical College, Vijaywada",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Laboratory Services Peerless Hospitex Hospital & Research Centre",
-            "address": "360, Pancha Sayar Rd, Sahid Smirity Colony, Pancha Sayar, Kolkata, West Bengal 700094",
-            "phone_number": " 033 4011 1222"
+            "sno": "5",
+            "name": "Govt. Medical College, Ananthpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Woodlands Multispeciality Hospital Limited",
-            "address": "8/5, Alipore Rd, Alipore, Kolkata, West Bengal 700027",
-            "phone_number": " 033 2456 7075"
+            "sno": "6",
+            "name": "Guntur Medical College, Guntur",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "The Calcutta Medical Research Institute",
-            "address": "7, 2, Diamond Harbour Rd, New Alipore, Kolkata, West Bengal 700027",
-            "phone_number": " 033 3090 3090"
+            "sno": "7",
+            "name": "Rajiv     Gandhi     Institute     of     Medical Sciences, Kadapa",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Command Hospital",
-            "address": "17/1E, Alipore Rd, Alipore Police Line, Alipore, Kolkata, West Bengal 700027",
-            "phone_number": " 033 2479 1567"
+            "sno": "8",
+            "name": "Andhra Medical College, Visakhapatnam",
+            "type": "Government",
+            "test_type": "RT-PCR"
         },
         {
-            "name": "Chittaranjan National Cancer Institute",
-            "address": "37, Shyama Prasad Mukherjee Rd, Bakul Bagan, Bhowanipore, Kolkata, West Bengal 700026",
-            "phone_number": " 033 2476 5101"
+            "sno": "9",
+            "name": "Govt. Kurnool Medical College, Kurnool",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": "Govt. Medical College, Srikakulam",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": "AIIMS, Mangalagiri",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": "Damien TB Research Centre, Nellore",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "13",
+            "name": "SVRR Govt. General Hospital, Tirupati",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "14",
+            "name": "Community  Health  Centre,  Gadi  Veedhi Saluru, Vizianagaram",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "15",
+            "name": "Community Health Centre, Bhimavaram, West Godavari District",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "16",
+            "name": "Community Health Centre, Patapatnam",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "17",
+            "name": "Community    Health    Center,    Nandyal, Banaganapalli, Kurnool",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "18",
+            "name": "GSL Medical College & General Hospital, Rajahnagram, East Godavari District",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "19",
+            "name": "District   Hospital,   Madnapalle,   Chittoor District",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "20",
+            "name": "District  Hospital,  APVVP,  Pulivendula,Kadapa District\"",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "21",
+            "name": "District    Hospital,    Rajahmundry,    East Godavari District",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "22",
+            "name": "District  Hospital,  Noonepalli,  Nandyal, Kurnool",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "23",
+            "name": "District Hospital,  Anakapalli, Vishakhapatnam",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "24",
+            "name": "District Hospital, Hindupur, Anantpur",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "25",
+            "name": "District Hospital, Proddatur",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "26",
+            "name": "District Hospital, Machlipatnam",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "27",
+            "name": "District Hospital, Atmakur",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "28",
+            "name": "District Hospital, Markapur",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "29",
+            "name": "District Hospital, Tekkali",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "30",
+            "name": "Area  Hospital,  Rampachodavaram,  East Godavari District",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "31",
+            "name": "Area Hospital, Palamaner, Chittoor",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "32",
+            "name": "Area      Hospital,      Amalapuram,      East Godavari District",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "33",
+            "name": "Area Hospital, Adoni, Kurnool",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "34",
+            "name": "Area Hospital, Chirala",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "35",
+            "name": "Area Hospital, Kandukuru",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "36",
+            "name": "Area Hospital, Narsipatnam",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "37",
+            "name": "Area Hospital, Parvathipuram",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "38",
+            "name": "Area Hospital, Tadepalligudem",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "39",
+            "name": "Area Hospital, Kavali",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "40",
+            "name": "Area Hospital, Tenali",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "41",
+            "name": "Area Hospital, Narasaraopet, Guntur",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "42",
+            "name": "Area Hospital, Macheria, Guntur",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "43",
+            "name": "Area Hospital, Kadiri",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "44",
+            "name": "Area Hospital, Gandhinagar, Nuzividu",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "45",
+            "name": "ACSR Govt. Medical College, Nellore",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "46",
+            "name": "Rural Development Trust, Bathalpalli",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "47",
+            "name": "Govt. General Hospital, Guntur",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "48",
+            "name": "Govt. General Hospital/ RIMS, Ongole",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "49",
+            "name": "DST Lab Govt. Chest Hospital, Vishakhapatnam",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "50",
+            "name": "District Hospital, Vizianagram",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "51",
+            "name": "District Hospital, Chittoor",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "52",
+            "name": "District Hospital, Eluru",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "53",
+            "name": "SHAR Hospital, Sriharikota, Nellore",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "54",
+            "name": "Manipal Hospital, Tadepalli, Guntur",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "55",
+            "name": "PathGene   Health   Care   Pvt   Ltd#2nd Floor, Srinivasapuram,  Tiruchanoor  Road,  Opp  LV, kayanamandapam, Tirupathi",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "56",
+            "name": "Apollo  Health  and  Lifestyle  Ltd,  Vijayawada Diagnostics      Lab,      40-5-6,      Parmeshwara Complex, Tikkle Road, Vijayawada",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "57",
+            "name": "Vijaya  Diagnostic  Centre  Pvt.  Ltd., Plot  No: 43/198, Old Rainbow Hospital Lane, N R Peta, Kurnool",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "58",
+            "name": "Maharaja    Institute    of    Medical    Sciences, Vizianagaram",
+            "type": "Private",
+            "test_type": "RT-PCR"
         }
-      
     ]
 }

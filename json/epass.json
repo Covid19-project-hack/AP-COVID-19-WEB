@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "Migrant Fligt Pass Registration Form",
+            "link": "http://spandana1.ap.gov.in/registration/OnlineFlightPassRegistration.aspx"
+        },
+        {
+            "name": "Employee Registration Form",
+            "link": "http://spandana1.ap.gov.in/Registration/employeeregistration.aspx"
+        },
+        {
+            "name": "Emergency Health Registration Form",
+            "link": "http://spandana1.ap.gov.in/Registration/EmergencyRegistration.aspx"
+        },
+        {
+            "name": "Organization Registration Form",
+            "link": "https://gramawardsachivalayam.ap.gov.in/CVPASSAPP/CV/CVOrganizationRegistration"
+        }
+        
+    ]
+}
+
