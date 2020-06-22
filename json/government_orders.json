@@ -1,70 +1,20 @@
 {
     "data": [
         {
-            "date": "3/22/20",
-            "title": "Notification regarding Complete Safety Restrictions to prevent spread of COVID-19",
-            "link": "https://wb.gov.in/COVID-19/LD8.pdf"
+            "date": "01/06/20",
+            "title": "COVID-19 Instant Orders",
+            "link": "http://hmfw.ap.gov.in/covid_19_instantc_orders.aspx"
         },
         {
-            "date": "3/24/20",
-            "title": "Notification regarding extension of Complete Safety Restrictions to prevent the spread of COVID-19",
-            "link": "https://wb.gov.in/COVID-19/LD7.pdf"
+            "date": "01/06/20",
+            "title": "Daily Bulletin",
+            "link": "http://hmfw.ap.gov.in/covid_19_dailybulletins.aspx"
         },
         {
-            "date": "3/25/20",
-            "title": "Notification regarding exceptions or exemptions under the Complete Safety Restrictions",
-            "link": "https://wb.gov.in/COVID-19/LD6.pdf"
-        },
-        {
-            "date": "3/25/20",
-            "title": "Notification regarding movement of personnel and supply of essential goods and services",
-            "link": "https://wb.gov.in/COVID-19/LD5.pdf"
-        },
-        {
-            "date": "3/26/20",
-            "title": "Notification regarding guidelines for movement of personnel and supply of essential goods and services",
-            "link": "https://wb.gov.in/COVID-19/LD4.pdf"
-        },
-        {
-            "date": "3/27/20",
-            "title": "Notification regarding exceptions or exemptions under the Complete Safety Restrictions to combat COVID-19",
-            "link": "https://wb.gov.in/COVID-19/LD3.pdf"
-        },
-        {
-            "date": "3/28/20",
-            "title": "Notification regarding exemption for Tea Gardens to combat spread of COVID-19",
-            "link": "https://wb.gov.in/COVID-19/LD2.pdf"
-        },
-        {
-            "date": "3/28/20",
-            "title": "Notification regarding opening of shops and establishment dealing with essential commodities",
-            "link": "https://wb.gov.in/COVID-19/LD1.pdf"
-        },
-        {
-            "date": "3/30/20",
-            "title": "Notification regarding operational time of Sweetmeat shops and special permissions for private companies",
-            "link": "https://wb.gov.in/COVID-19/LD9.pdf"
-        },
-        {
-            "date": "3/31/20",
-            "title": "Notification regarding extension of validity and schemes due to lockdown measures",
-            "link": "https://wb.gov.in/COVID-19/LD10.pdf"
-        },
-        {
-            "date": "5/18/20",
-            "title": "Guidelines issued in respect of implementation of lockdown measures",
-            "link": "https://wb.gov.in/COVID-19/Measures.pdf"
-        },
-        {
-            "date": "6/06/20",
-            "title": "Amended SOP for paying last respect to the COVID-19 deceased",
-            "link": "https://wb.gov.in/COVID-19/Amended%20SOP_DeadBodyDisposal.pdf"
-        },
-        {
-            "date": "6/08/20",
-            "title": "Notification regarding lockdown measures in Containment zones",
-            "link": "https://wb.gov.in/COVID-19/RS_Extension_order.pdf"
+            "date": "01/06/20",
+            "title": " Compendium of instructions on Covid-19",
+            "link": "http://hmfw.ap.gov.in/COVID-19%20IEC/COMPENDIUM%20OF%20INSTRUCTIONS%20-%20COVID19.pdf"
         }
-       
+        
     ]
 }
