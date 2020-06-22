@@ -70,7 +70,7 @@ function formAppear(){
     data_model.type = document.getElementById("donate_category").value
     data_model.email_id = document.getElementById("email").value;
     data_model.desc = document.getElementById("desc").value;
-    console.log(data_model);
+    // console.log(data_model);
     newPostRef.set(data_model);
     document.getElementById("inputform").style.display = "none";
     document.getElementById("togglebutton").style.visibility = "visible";

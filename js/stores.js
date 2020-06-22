@@ -21,7 +21,7 @@ $(document).ready(function(){
         }
         else{
             console.log('not logged in');
-            // window.location = "signinwithphno.html";
+            window.location = "signinwithphno.html";
         }
     });
     var listgrp = document.getElementById("lstgrp");
