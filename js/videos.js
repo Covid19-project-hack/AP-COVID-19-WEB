@@ -18,9 +18,10 @@ $(document).ready(function(){
       tollnums.forEach(element => { 
       listgrp.innerHTML+=
       `<div class="list-group-item list-group-item-action flex-column align-items-start " style="padding-bottom: 20px;">
-      
+      <div class="d-flex w-100 justify-content-between">
+            <h5><b>${element.name}</b></h5>
+        </div>
       <br>
-      <p class="mb-1"><i style="margin-right: 15px;"> </i>   ${element.name}</p>
       <p class="nb-1"><i class="fas fa-link" style="margin-right: 15px;"> </i>   ${element.link}</p>
       
       
